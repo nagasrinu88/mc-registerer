@@ -4,6 +4,8 @@
 2. https://github.com/nagasrinu88/mc-zuul-server (API proxy)
 3. https://github.com/nagasrinu88/mc-customer-service (Customer Service)
 4. https://github.com/nagasrinu88/mc-order-service (Order Service)
+5. https://github.com/nagasrinu88/mc-product-service (Product Service)
+6. https://github.com/nagasrinu88/mc-config-repo (External Configuration Repo)
 
 ## Technology Stack
 ### Java 1.8
